@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../parent/business-root/business-root.iml" filepath="$PROJECT_DIR$/../parent/business-root/business-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parent/eureka/eureka.iml" filepath="$PROJECT_DIR$/../parent/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parent/member/member.iml" filepath="$PROJECT_DIR$/../parent/member/member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parent/order/order.iml" filepath="$PROJECT_DIR$/../parent/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parent/parent.iml" filepath="$PROJECT_DIR$/../parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zookeeper1/zookeeper1.iml" filepath="$PROJECT_DIR$/../zookeeper1/zookeeper1.iml" />
+    </modules>
+  </component>
+</project>
