@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ZookeeperApplication {
 
     public static void main(String[] args) {
-        System.setProperty("logging.app.name1", "zookeeper");
+        System.setProperty("logging.app.name2", "zookeeper");
         SpringApplication.run(ZookeeperApplication.class, args);
     }
 
